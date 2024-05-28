@@ -125,5 +125,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Special thanks to all the contributors, supporters, and users of the  Music Bot. Your feedback and support keep us going!
-- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [Aayu](https://github.com/aayu820/Musicbot) For their Source Codes.
+- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [dds](https://github.com/dds256/Nothing) For their Source Codes.
 
